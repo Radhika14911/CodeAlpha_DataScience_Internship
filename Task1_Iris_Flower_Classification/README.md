@@ -138,19 +138,19 @@ The project highlights the capability of machine learning algorithms to solve mu
 
 ### Species Distribution
 
-![Species Distribution](images/species_distribution.png)
+![Species Distribution](species_distribution.png)
 
 ### Pair Plot Analysis
 
-![Pair Plot Analysis](images/pair_plot.png)
+![Pair Plot Analysis](pair_plot.png)
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](images/corelation_heatmap.png)
+![Correlation Heatmap](corelation_heatmap.png)
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 
 ## Skills Demonstrated
