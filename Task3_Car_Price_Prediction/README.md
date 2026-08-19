@@ -113,6 +113,19 @@ The regression model successfully estimated vehicle selling prices and demonstra
 
 ---
 
+## Project Visualizations
+
+### Actual vs Predicted Car Prices
+![Actual vs Predicted](actual_vs_predicted_car_prices.png)
+
+### Distribution of Prediction Errors
+![Prediction Errors](distribution_of_prediction_errors.png)
+
+### Residual Plot
+![Residual Plot](residual_plot.png)
+
+---
+
 ## Skills Demonstrated
 
 - Data Preprocessing
