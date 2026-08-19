@@ -117,6 +117,7 @@ The visualizations helped identify employment patterns, workforce participation 
 Shows variation in unemployment throughout the year.
 
 ![Monthly Trend](average monthly unemployment trend.png)
+
 ---
 
 ## Average Unemployment Rate by State
