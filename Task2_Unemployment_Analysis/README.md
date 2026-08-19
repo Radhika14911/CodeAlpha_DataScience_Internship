@@ -116,7 +116,7 @@ The visualizations helped identify employment patterns, workforce participation 
 
 Shows variation in unemployment throughout the year.
 
-![Monthly Trend](average monthly unemployment trend.png)
+![Monthly Trend](average_monthly_unemployment_trend.png)
 
 ---
 
@@ -124,7 +124,7 @@ Shows variation in unemployment throughout the year.
 
 Comparison of unemployment rates across Indian states.
 
-![State Unemployment](average unemployment rate by state.png)
+![State Unemployment](average_unemployment_rate_by_state.png)
 
 ---
 
@@ -132,7 +132,7 @@ Comparison of unemployment rates across Indian states.
 
 Displays relationships among unemployment rate, employment population, and labour participation rate.
 
-![Correlation Heatmap](corelation_heatmap(1).png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ---
 
@@ -140,7 +140,7 @@ Displays relationships among unemployment rate, employment population, and labou
 
 Shows overall distribution and frequency of unemployment rates.
 
-![Distribution](distribution of unemployment rate.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ---
 
@@ -148,7 +148,7 @@ Shows overall distribution and frequency of unemployment rates.
 
 Analyzes the relationship between labour participation and unemployment levels.
 
-![Labour Participation](labour participation vs unemployment.png)
+![Labour Participation](labour_participation_vs_unemployment.png)
 
 ---
 
@@ -156,7 +156,7 @@ Analyzes the relationship between labour participation and unemployment levels.
 
 Compares unemployment patterns between rural and urban regions.
 
-![Rural Urban](rural vs urban unemployment.png)
+![Rural Urban](rural_vs_urban_unemployment.png)
 
 ---
 
@@ -164,7 +164,7 @@ Compares unemployment patterns between rural and urban regions.
 
 States with highest employed population.
 
-![Employment](top 10 states by employment.png)
+![Employment](top_10_states_by_employment.png)
 
 ---
 
@@ -172,7 +172,7 @@ States with highest employed population.
 
 Highlights states facing higher unemployment challenges.
 
-![Highest Unemployment](top 10 states highest unemployment rate.png)
+![Highest Unemployment](top_10_states_highest_unemployment_rate.png)
 
 ---
 
@@ -180,8 +180,7 @@ Highlights states facing higher unemployment challenges.
 
 Shows states with strongest workforce participation.
 
-![Labour Participation Rate](top 10 states labour participation rate.png)
-
+![Labour Participation Rate](top_10_states_labour_participation_rate.png)
 ---
 
 ## Skills Demonstrated
