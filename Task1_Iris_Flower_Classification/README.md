@@ -134,10 +134,6 @@ The project highlights the capability of machine learning algorithms to solve mu
 
 ---
 
-## Results
-
-(your content)
-
 ## Project Visualizations
 
 ### Species Distribution
@@ -150,7 +146,7 @@ The project highlights the capability of machine learning algorithms to solve mu
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](images/corelation_heatmap.png)
 
 ### Confusion Matrix
 
