@@ -108,42 +108,43 @@ The developed model successfully predicted sales outcomes and demonstrated a str
 The analysis highlighted the importance of marketing investments in influencing sales performance.
 
 ---
-## 📊 Project Visualizations
+## Project Visualizations
 
-### 📺 TV Advertising vs Sales
+### TV Advertising vs Sales
 Analyzes the relationship between TV advertising expenditure and product sales. The scatter plot shows a strong positive correlation, indicating that higher TV advertising budgets generally lead to increased sales.
 
 ![TV Advertising vs Sales](tv_advertising_vs_sales.png)
 
 ---
 
-### 📻 Radio Advertising vs Sales
+### Radio Advertising vs Sales
 Examines the impact of radio advertising on sales performance. The visualization demonstrates a moderate positive relationship between radio advertising investment and sales.
 
 ![Radio Advertising vs Sales](radio_advertising_vs_sales.png)
 
 ---
 
-### 📰 Newspaper Advertising vs Sales
+### Newspaper Advertising vs Sales
 Explores the relationship between newspaper advertising expenditure and sales. Compared to TV and Radio advertising, newspaper advertising shows a weaker correlation with sales.
 
 ![Newspaper Advertising vs Sales](newspaper_advertising_vs_sales.png)
 
 ---
 
-### 🔥 Correlation Heatmap
+### Correlation Heatmap
 Displays the correlation coefficients among advertising channels (TV, Radio, Newspaper) and Sales. The heatmap helps identify which advertising medium has the strongest influence on sales performance.
 
 ![Correlation Heatmap](correlation_heatmap.png)
 
 ---
 
-### 🎯 Actual vs Predicted Sales
+### Actual vs Predicted Sales
 Compares actual sales values with the sales predicted by the Linear Regression model. The close alignment of points indicates that the model performs well in predicting sales outcomes.
 
 ![Actual vs Predicted Sales](actual_vs_predicted_sales.png)
 
 ---
+
 
 ## Skills Demonstrated
 
