@@ -19,11 +19,9 @@ The projects included both analytical and predictive modeling tasks, covering cl
 ## Project Workflow
 
 Data Collection
-
         ↓
-        
+       
 Data Cleaning & Preprocessing
-
         ↓
         
 Exploratory Data Analysis
