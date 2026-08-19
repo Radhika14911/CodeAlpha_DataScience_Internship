@@ -18,29 +18,7 @@ The projects included both analytical and predictive modeling tasks, covering cl
 
 ## Project Workflow
 
-Data Collection
-        ↓
-       
-Data Cleaning & Preprocessing
-        ↓
-        
-Exploratory Data Analysis
-
-        ↓
-        
-Feature Engineering
-
-        ↓
-        
-Machine Learning Modeling
-
-        ↓
-        
-Model Evaluation
-
-        ↓
-        
-Business Insights & Conclusions
+Data Collection →   Data Cleaning & Preprocessing →   Exploratory Data Analysis →  Feature Engineering  →  Machine Learning Modeling → Model Evaluation → Business Insights & Conclusions
 
 ---
 
