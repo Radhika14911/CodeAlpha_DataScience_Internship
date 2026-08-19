@@ -113,78 +113,33 @@ The visualizations helped identify employment patterns, workforce participation 
 # Project Visualizations
 
 ## Average Monthly Unemployment Trend
-
-Shows variation in unemployment throughout the year.
-
-![Monthly Trend](average monthly unemployment trend.png)
-
----
+![Monthly Trend](monthly_trend.png)
 
 ## Average Unemployment Rate by State
-
-Comparison of unemployment rates across Indian states.
-
-![State Unemployment](average unemployment rate by state.png)
-
----
+![State Unemployment](state_unemployment.png)
 
 ## Correlation Heatmap
-
-Displays relationships among unemployment rate, employment population, and labour participation rate.
-
 ![Correlation Heatmap](correlation_heatmap.png)
 
----
-
 ## Distribution of Unemployment Rate
-
-Shows overall distribution and frequency of unemployment rates.
-
-![Distribution](distribution of unemployment rate.png)
-
----
+![Distribution](distribution.png)
 
 ## Labour Participation vs Unemployment
-
-Analyzes the relationship between labour participation and unemployment levels.
-
-![Labour Participation](labour participation vs unemployment.png)
-
----
+![Labour Participation](labour_vs_unemployment.png)
 
 ## Rural vs Urban Unemployment
-
-Compares unemployment patterns between rural and urban regions.
-
-![Rural Urban](rural vs urban unemployment.png)
-
----
+![Rural Urban](rural_vs_urban.png)
 
 ## Top 10 States by Employment
-
-States with highest employed population.
-
-![Employment](top 10 states by employment.png)
-
----
+![Employment](top10_employment.png)
 
 ## Top 10 States with Highest Unemployment Rate
-
-Highlights states facing higher unemployment challenges.
-
-![Highest Unemployment](top 10 states highest unemployment rate.png)
-
----
+![Highest Unemployment](top10_unemployment.png)
 
 ## Top 10 States by Labour Participation Rate
-
-Shows states with strongest workforce participation.
-
-![Labour Participation Rate](top 10 states labour participation rate.png)
-
+![Labour Participation Rate](top10_labour_participation.png)
 
 ---
-
 
 ## Skills Demonstrated
 
